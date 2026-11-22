@@ -1,9 +1,7 @@
 orders = [
-    {"order_id": 601, "product": "Milk", "quantity": 2},
-    {"order_id": 602, "product": "Bread", "quantity": 0},
-    {"order_id": 603, "product": "Coffee", "quantity": -2},
-    {"order_id": 604, "product": "Tea", "quantity": 4},
-    {"order_id": 605, "product": "Cheese", "quantity": 1},
+    {"order_id": 901, "product": "Milk", "quantity": 0},
+    {"order_id": 902, "product": "Bread", "quantity": -2},
+    {"order_id": 903, "product": "Coffee", "quantity": -5},
 ]
 
 invalid_orders = []
